@@ -22,6 +22,7 @@ namespace ConsoleApp1
             int sum = 0;
             //siema
             //elo
+            //trzeci
             for (int i = 2; i <= n; i++)
             {
                 sum = n1 + n2;
