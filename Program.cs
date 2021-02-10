@@ -20,7 +20,7 @@ namespace ConsoleApp1
             int n1 = 0;
             int n2 = 1;
             int sum = 0;
-
+            //siema
             for (int i = 2; i <= n; i++)
             {
                 sum = n1 + n2;
