@@ -21,6 +21,7 @@ namespace ConsoleApp1
             int n2 = 1;
             int sum = 0;
             //siema
+            //elo
             for (int i = 2; i <= n; i++)
             {
                 sum = n1 + n2;
