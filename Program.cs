@@ -24,7 +24,7 @@ namespace ConsoleApp1
             //elo
             //trzeci
             //nowa galonzka
-            //five
+            //five 5
             for (int i = 2; i <= n; i++)
             {
                 sum = n1 + n2;
