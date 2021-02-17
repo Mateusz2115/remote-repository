@@ -25,6 +25,7 @@ namespace ConsoleApp1
             //trzeci
             //nowa galonzka
             //fajf
+            //six
             for (int i = 2; i <= n; i++)
             {
                 sum = n1 + n2;
